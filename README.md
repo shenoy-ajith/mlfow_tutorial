@@ -23,5 +23,6 @@ This Repository contains the resources for my tutorial **"Managing the end-to-en
 
 # Advanced setup
 
-## Setup the environment
-- install postgresql: `sudo apt-get install postgresql postgresql-contrib postgresql-server-dev-all`
+## Setup up the mlflow server
+mlflow server --backend-store-uri mlruns/ --default-artifact-root mlruns/ --host 0.0.0.0 --port 5000 
+
