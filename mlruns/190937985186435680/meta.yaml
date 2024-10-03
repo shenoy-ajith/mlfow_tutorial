@@ -1,0 +1,6 @@
+artifact_location: /home/shenoy/mlfow_tutorial/mlruns/190937985186435680
+creation_time: 1727945859192
+experiment_id: '190937985186435680'
+last_update_time: 1727945859192
+lifecycle_stage: active
+name: ElasticNet_wine

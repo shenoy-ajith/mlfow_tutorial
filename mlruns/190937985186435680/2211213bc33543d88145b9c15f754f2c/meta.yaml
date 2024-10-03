@@ -1,0 +1,15 @@
+artifact_uri: /home/shenoy/mlfow_tutorial/mlruns/190937985186435680/2211213bc33543d88145b9c15f754f2c/artifacts
+end_time: 1727945878716
+entry_point_name: ''
+experiment_id: '190937985186435680'
+lifecycle_stage: active
+run_id: 2211213bc33543d88145b9c15f754f2c
+run_name: gifted-ray-566
+run_uuid: 2211213bc33543d88145b9c15f754f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727945877654
+status: 3
+tags: []
+user_id: shenoy
